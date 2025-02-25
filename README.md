@@ -1,3 +1,3 @@
 # tedx
 
-![alt text](![tedxhome.PNG]())
+![Alt text](tedxhome.PNG)
