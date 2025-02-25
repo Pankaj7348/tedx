@@ -1,4 +1,3 @@
 # tedx
 
-![alt text](![Uploading tedxhome.PNG…]()
-)
+![alt text](![tedxhome.PNG]())
